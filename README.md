@@ -60,9 +60,9 @@ Ao longo da faculdade e por conta própria, já desenvolvi projetos de:
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-castro5&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
+</p>](https://github-readme-stats-one-bice.vercel.app/api?username=lucas-castro5&show_icons=true&theme=radical)
 
 ---
 
