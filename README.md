@@ -70,7 +70,7 @@ Ao longo da faculdade e por conta própria, já desenvolvi projetos de:
 
 - GitHub: _[@lucas-castro5](https://github.com/lucas-castro5)_
 - LinkedIn: _[Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-bb832a365)_
-- E-mail: _[lucas.csantos2102@gmail.com]_
+- E-mail: _lucas.csantos2102@gmail.com_
 
 ---
 
