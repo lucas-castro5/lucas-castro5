@@ -7,7 +7,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucas-castro5&color=blueviolet&style=flat-square" alt="Visitor count" />
 </p>
-
+<p align="center">
+  <a href="https://lucas-castro5.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-Acessar-blue?style=for-the-badge"> 
+ 
 ---
 
 ### 🚀 Sobre mim
