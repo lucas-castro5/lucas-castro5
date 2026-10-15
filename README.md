@@ -1,86 +1,128 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Gabriel 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas, apaixonado por programação e sempre aprendendo algo novo.
+  <strong>Desenvolvedor em formação | Estudante de Análise e Desenvolvimento de Sistemas</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-castro5&color=blueviolet&style=flat-square" alt="Visitor count" />
+  Apaixonado por tecnologia, desenvolvimento de software e por transformar ideias em soluções práticas.
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucas-castro5&color=blueviolet&styleadge
+</p>
+
 <p align="center">
   <a href="https://lucas-castro5.github.io/portifolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-Acessar-blue?style=for-the-badge"> 
- 
----
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-Acessar-2563EB?style=for-the-badge<a href="https://www.linkedin.com/inbriel-bb832a365
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+--
 
-### 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-- 🎓 Estudando Desenvolvimento de Sistemas
-- 💻 Trabalhando com **Java**, **React**, **JavaScript**, **TypeScript**, **PHP**, **Python**, **HTML** e **C**
-- 🌱 Aprendendo sobre bancos de dados, sistemas web e boas práticas de programação
-- 📚 Gosto de aplicar na prática o que aprendo nas aulas, criando projetos acadêmicos e pessoais
-- 🔭 No momento, focado em projetos de gestão escolar/EAD com banco de dados
-- 🤝 Aberto a colaborar em projetos acadêmicos e open source
-- ⚡ Fun fact: aprendo mais rápido construindo projetos do que só lendo teoria
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 
----
+💻 Desenvolvendo aplicações web, bancos de dados e projetos acadêmicos com foco em aprendizado contínuo.
 
-### 🧠 O que eu já fiz
+🏢 Experiência com projetos corporativos, controle de versão com Git e manutenção de aplicações.
 
-Ao longo da faculdade e por conta própria, já desenvolvi projetos de:
+📱 Atualmente estudando desenvolvimento mobile e tecnologias modernas do ecossistema JavaScript.
 
-- Sistemas de gestão escolar/EAD com controle de matrículas, pagamentos e aulas
-- Aplicações e exercícios de lógica de programação em Python e C
-- Sistemas web com PHP para disciplinas da faculdade
-- Um portfólio pessoal em HTML para reunir meus trabalhos
+🌱 Buscando evoluir como desenvolvedor Full Stack.
+
+⚡ Acredito que a melhor forma de aprender é construindo projetos reais.
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.devava,nodejs,php,python
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gitcode
 </p>
 
 ---
 
-### 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
-- **[bdll-projeto](https://github.com/lucas-castro5/bdll-projeto)** — Sistema de banco de dados para plataforma EAD e gestão escolar, com controle de alunos, professores, turmas, disciplinas, aulas gravadas, avaliações e pagamentos.
-- **[projetos_academicos](https://github.com/lucas-castro5/projetos_academicos)** — Repositório com projetos feitos ao longo da minha jornada na programação.
-- **[portifolio](https://github.com/lucas-castro5/portifolio)** — Meu portfólio pessoal, feito em HTML.
-- **[Desenvolvimento_de_Sistemas](https://github.com/lucas-castro5/Desenvolvimento_de_Sistemas)** — Projetos e exercícios da disciplina de Desenvolvimento de Sistemas.
-- **[projetinDC](https://github.com/lucas-castro5/projetinDC)** — Projeto desenvolvido em Python.
+### 🎓 Sistema de Gestão Escolar / EAD
+
+Sistema acadêmico com gerenciamento de alunos, professores, turmas, disciplinas, pagamentos e avaliações.
+
+🔗 https://github.com/lucas-castro5/bdll-projeto
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🌐 Portfólio Pessoal
+
+Site criado para apresentar meus projetos, estudos e evolução profissional.
+
+🔗 https://github.com/lucas-castro5/portifolio
+
+---
+
+### 🐘 CRUD em PHP
+
+Aplicação web utilizando PHP para operações de cadastro, consulta, edição e remoção de registros.
+
+🔗 https://github.com/lucas-castro5/Crud_PHP
+
+---
+
+### ⚛️ React Estudos
+
+Projetos e exercícios voltados para aprendizado de React e desenvolvimento de interfaces modernas.
+
+🔗 https://github.com/lucas-castro5/ReactEstudo
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lucas-castro5&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-castro5&show_icons=true&theme=tokyonight&include_all_commits=true&countign="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-castro5&layout=compact&langs_count=8&theme=tokyonetivos
+
+- Evoluir como Desenvolvedor Full Stack
+- Aprofundar conhecimentos em Java e React
+- Aprender mais sobre arquitetura de software
+- Contribuir para projetos Open Source
+- Construir soluções que gerem impacto real para usuários e empresas
+
+---
+
+## 📫 Contato
+
+📧 **lucas.csantos2102@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/lucas-gabriel-bb832a365
+
+🌐 **Portfólio**  
+https://lucas-castro5.github.io/portifolio/
+
+💻 **GitHub**  
+https://github.com/lucas-castro5
+
+---
+
+<h3 align="center">⭐ Obrigado pela visita!</h3>
+
+<p align="center">
+  <i>"Sempre aprendendo, sempre construindo."</i>
 </p>
-
----
-
-### 📫 Como me encontrar
-
-- GitHub: _[@lucas-castro5](https://github.com/lucas-castro5)_
-- LinkedIn: _[Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-bb832a365)_
-- E-mail: _lucas.csantos2102@gmail.com_
-
----
-
-### 🎯 Objetivos
-
-- Aprofundar conhecimentos em desenvolvimento back-end e banco de dados
-- Contribuir com projetos open source
-- Construir uma base sólida para atuar como desenvolvedor de sistemas
-
-<p align="center">⭐️ Obrigado pela visita!</p>
